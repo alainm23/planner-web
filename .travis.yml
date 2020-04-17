@@ -1,7 +1,7 @@
 #rename to .travis.yml and use in your project
 language: ruby
 rvm:
-- 2.3.3
+- 2.5.1
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
