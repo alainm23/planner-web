@@ -50,14 +50,15 @@
 .appcenter {
 	width: 200px;
     height: 69px;
-    margin: 1em;
+	margin: 1em;
+	margin-bottom: 0px;
 }
 
 .flathub {
 	width: 200px;
     height: 60px;
     margin: 1em;
-    margin-bottom: 27px;
+    margin-bottom: 4px;
 }
 
 @media #{$desktop} {

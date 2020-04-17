@@ -2,15 +2,16 @@
 # Site
 
 title: Planner
-url: "https://planner-todo.web.app/"
-baseurl: 
+url: "https://planner-todo.web.app"
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
 description: Task manager with Todoist support designed for GNU/Linux 🚀.
+image: /images/dashboard.png
+logo: /siteicon.png
 author:
   name: Alain M.
   email: alainmh23@gmail.com
