@@ -1,5 +1,5 @@
 .bottom-cta {
-	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%);
+	background: #FFFFFF;
 	color: #fff;
 	text-align: center;
 	margin: 0;
@@ -8,6 +8,11 @@
 	h2 {
 		margin-bottom: 50px;
 	}
+}
+
+.twitter-tweet {
+	text-align: center;
+	margin: 0 auto;
 }
 
 .testimonial {

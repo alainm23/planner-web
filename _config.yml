@@ -3,18 +3,18 @@
 
 title: Planner
 url: "https://planner-todo.web.app/"
-baseurl:
+baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Task manager with Todoist support designed for GNU/Linux 🚀.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Alain M.
+  email: alainmh23@gmail.com
+  twitter: alainm23
 social:
   name: Planner
   links:
