@@ -15,7 +15,8 @@ before_install:
   - ruby -v
 
 install:
-  - gem install bundle jekyll
+  - gem install bundle -v 1.17.3
+  - gem install jekyll
   - bundle check || bundle install
   - npm install -g https://github.com/firebase/firebase-tools.git
 
