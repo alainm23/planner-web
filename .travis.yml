@@ -19,9 +19,9 @@ notifications:
 
 before_install:
   #install rvm 2.2
-  - rvm install 2.5.1
+  - rvm install 2.6.3
   #use rvm 2.2
-  - rvm use 2.5.1
+  - rvm use 2.6.3
   #set home varaibles
   - . $HOME/.nvm/nvm.sh && nvm install 6.1 && nvm use 6.1  
   #install gems through bundler
@@ -40,7 +40,7 @@ script:
   #continue even after error
   - set -e 
   #build jekyll site
-  - bundle exec jekyll build --verbose
+  - bundle exec jekyll build
 
 after_success:
   #deploy to firebase using stored token. 
