@@ -34,10 +34,25 @@
 		}
 	}
 
-	h2 {
-		text-align: left;
+	li {
+		margin-bottom: 12px;
+		font-weight: 300;
+		line-height: 1.4em;
+		font-size: 18px;
+		color: #303336;
 	}
 
+	h2 {
+		text-align: left;
+		font-size: 24px;
+		line-height: 1.25;
+		padding-top: 47px;
+		padding-bottom: 23px;
+		font-family: -apple-system,BlinkMacSystemFont,Roboto,'Helvetica Neue',sans-serif;
+		font-weight: 700;
+		color: #303336;
+	}
+	
 	.blog-navigation {
 		font-size: 14px;
 		display: block;

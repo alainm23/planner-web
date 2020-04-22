@@ -1,0 +1,25 @@
+I"�<p>Here’s a big update for the Quick Find feature, recurring tasks, and design improvements. Are you ready for Planner 2.3?
+<img src="/images/blogs/2020-04-17-hi-everyone-Planner-2-3-is-here/Planner2-3-Banner.png" alt="Planner 2.3" /></p>
+
+<h3 id="quick-find">Quick Find</h3>
+<p>Quick Find arrives with a big redesign and a ton of new features to make integration with Planner better. First, the design is based on <a href="https://github.com/tom95/indicator-synapse">Synapse Indicator</a> thanks to <a href="https://github.com/tom95">Tom Beckmann</a>, this new design allows us to better order the elements to be displayed.
+Now you can do searches for <strong>Tasks</strong>, <strong>Projects</strong>, <strong>Views</strong> and <strong>Labels</strong>.</p>
+<ul>
+  <li>Searches are more accurate and are highlighted if there are matches.</li>
+  <li>You can navigate faster between Inbox, Today and Upcoming views.</li>
+  <li>Search by labels and filter all your tasks.
+<img src="/images/blogs/2020-04-17-hi-everyone-Planner-2-3-is-here/QuickFindRedesign.png" alt="Planner Quick Find Redesign" /></li>
+</ul>
+<p style="text-align: center; font-size: 14px;">
+    <em>Planner - Quick Find Redesign</em>
+</p>
+
+<h3 id="recurring-tasks">Recurring Tasks</h3>
+<p>Recurring tasks finally arrive at Planner 2.3, with support for Todoist and an easy way to use it,
+but if you do not know that it is a recurring task we explain:</p>
+
+<p>You likely have tasks that repeat themselves on a regular basis – monthly reports, putting out the garbage, remembering to call Mom on her birthday.
+Instead of creating a new task for each occurrence, give it a recurring due date. When you complete a recurring task, it will automatically reset for the next due date with no extra effort required on your part.</p>
+
+<p><img src="/images/blogs/2020-04-17-hi-everyone-Planner-2-3-is-here/RecurringDueDates.png" alt="Recurring Due Dates" /></p>
+:ET
