@@ -22,7 +22,7 @@ install:
   - npm install -g https://github.com/firebase/firebase-tools.git
 
 before_script:
-  - bundle exec jekyll build
+  - JEKYLL_ENV=production bundle exec jekyll build
 
 script:
   - firebase deploy --token "$FIREBASE_API_TOKEN"
