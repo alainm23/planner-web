@@ -8,12 +8,12 @@ layout: page
 	<div class="post-content">
 		{{ content }}
 
-		<div class="author">
+		<!-- <div class="author">
 			{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
 			{% assign author = site.staff_members | where: "url", author_id | first %}
 			<div class="square-image"><img src="{% include relative-src.html src=author.image_path %}" alt="{{ author.name }}"/></div>
 			<p class="blurb">{{ author.blurb }}</p>
-		</div>
+		</div> -->
 
 		<div class="blog-navigation">
 			{% if page.previous.url %}
@@ -45,13 +45,13 @@ layout: page
 	</div>
 </div>
 
-<div id="disqus_thread"></div>
+<!-- <div id="disqus_thread"></div>
 <script>
 	(function() { // DON'T EDIT BELOW THIS LINE
 	var d = document, s = d.createElement('script');
 	s.src = 'https://planner-2.disqus.com/embed.js';
 	s.setAttribute('data-timestamp', +new Date());
 	(d.head || d.body).appendChild(s);
-	})();
+	})();planner-2
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->

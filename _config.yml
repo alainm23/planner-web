@@ -6,7 +6,7 @@ url: "https://planner-todo.web.app"
 baseurl:
 google_analytics_key: UA-148011698-1
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: planner-2
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 description: Task manager with Todoist support designed for GNU/Linux 🚀.
