@@ -1,6 +1,7 @@
 ---
 date: 2020-04-17
 title: Hi everyone! Planner 2.3 is here
+comments: true
 categories:
   - release
 author_staff_member: alain

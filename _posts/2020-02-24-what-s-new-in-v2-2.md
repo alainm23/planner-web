@@ -1,6 +1,7 @@
 ---
 date: 2020-02-24
 title: What's new in v2.2
+comments: true
 categories:
   - release
 author_staff_member: alain
