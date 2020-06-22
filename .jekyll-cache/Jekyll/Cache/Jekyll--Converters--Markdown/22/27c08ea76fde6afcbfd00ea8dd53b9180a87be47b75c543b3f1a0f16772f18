@@ -1,0 +1,95 @@
+I"�<p>Over the the past few months we’ve been working on Planner 2.4, a big update with great new features. Priorities, calendar events, Quick Add for all platforms and more.
+<img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/planner-2.4.png" alt="Planner 2.4" /></p>
+
+<h2 id="-priority-support"><i class="far fa-flag"></i> Priority support</h2>
+<p>Not all tasks are created equal. Use priority levels to make sure the most important things on your list stand out.</p>
+
+<p>You can give your tasks one of four priority levels – 1 being the most important (marked as red) and 4 being everything else (no color).</p>
+
+<ul>
+  <li>To add a task priority even faster, you can type <strong>p1</strong>, <strong>p2</strong>, or <strong>p3</strong> right into the task field. Planner will automatically recognize and assign the right priority level when you create the task.</li>
+  <li>Filter all your tasks with priorities from <strong>Quick Find</strong>.</li>
+  <li>The priorities are synchronized with <strong>Todoist</strong>.</li>
+</ul>
+
+<p><img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/planner-priorities.png" alt="Planner 2.4 Priority" /></p>
+
+<h2 id="-project-deadline"><i class="fas fa-hourglass-start"></i> Project Deadline</h2>
+<p>When you have been given a date by which you need to complete a project or face consequences, add <strong>Deadline</strong>.
+Here’s how to add a Deadline to your projects:</p>
+
+<ol>
+<li>Select <b>Edit</b> by right-clicking on your project in the left pane.</li>
+<li>Enable <b>Deadline</b> and select a date.</li>
+<li>A progress indicator and the selected date are added in the project view.</li>
+</ol>
+
+<p><img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/deadlines.png" alt="Planner 2.4 Deadlines" /></p>
+
+<h2 id="-links-everywhere"><i class="fa fa-link"></i> Links Everywhere</h2>
+<p>The app now handles links consistently in all places: inside the title, inside notes, and inside checklist items.</p>
+
+<p><img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/planner-links-everywhere.png" alt="Planner 2.4 Links Everywhere" /></p>
+
+<h2 id="-quick-find-improvements"><i class="fa fa-search"></i> Quick Find Improvements</h2>
+<p>You want to filter your tasks by priorities or by labels more quickly, <strong>Open Quick Find</strong> and select a filter, the labels and priorities are default every time you start Quick Find. The design and performance were also improved by making the searches faster.
+<img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/Quick Find.png" alt="Planner 2.4 Links Everywhere" /></p>
+
+<h2 id="-welcome-dark-blue--arc-dark"><i class="far fa-moon"></i> Welcome Dark Blue &amp; Arc Dark</h2>
+<p>Two beautiful <strong>Dark</strong> appearance that came to Planner, You can set your preferred in <strong>Preferences</strong> &gt; <strong>Themes</strong>
+<img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/dark-blue-arc.png" alt="Planner 2.4 Links Everywhere" /></p>
+
+<h2 id="-quick-add-improvements"><i class="fas fa-plus-circle"></i> Quick Add Improvements</h2>
+<p><strong>Quick Add</strong> came to Plane a long time ago but unfortunately it only works on elementary OS. Thanks to <a href="https://github.com/nils-asmussen">Nils Asmussen</a> and <a href="https://github.com/bilelmoussaoui">Bilal Elmoussaoui</a> it works in Flatpak.</p>
+
+<ul>
+  <li><i style="color: #f9c440;" class="fas fa-exclamation-triangle"></i> To make this possible we had to make some changes in flatpak and it’s possible that the synchronization with Todoist doesn’t work, to solve this you can re-login to your Todoist account from the preferences.</li>
+  <li>To add a task priority, you can type <strong>p1</strong>, <strong>p2</strong>, or <strong>p3</strong> right into the task field.</li>
+  <li>To add a date, you can type <strong>today</strong> or <strong>tomorrow</strong> right into the task field.</li>
+</ul>
+
+<h2 id="-keyboard-shortcuts-improvements"><i class="fas fa-keyboard"></i> Keyboard Shortcuts Improvements</h2>
+<p>Keyboard shortcuts are now better in Planner. A new dialog has been added to see the full list of keyboard shortcuts and many keyboard shortcuts have been added and modified.</p>
+
+<ul>
+  <li>Use <span class="keyboardkey">f1</span>  to open keyboard shortcuts dialog.</li>
+  <li>Use <span class="keyboardkey">a</span> and <span class="keyboardkey">q</span> to create a new task.</li>
+  <li>Use <span class="keyboardkey">p</span>, <span class="keyboardkey">f</span> and <span class="keyboardkey">s</span> to create a new project, folder or section.</li>
+  <li>Use <span class="keyboardkey">Ctrl</span> + <span class="keyboardkey">v</span> to create a task from the clipboard.
+<img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/KeyboardShortcuts.png" alt="Keyboard Shortcuts" /></li>
+</ul>
+
+<h2 id="-today--upcoming-improvements"><i class="far fa-star"></i> Today &amp; Upcoming Improvements</h2>
+<p>Now you can sort your tasks by drag and drop and the option to reschedule your overdue tasks was added.
+<img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/today-reschedule.png" alt="Today Reschedule" /></p>
+
+<p>In <strong>Upcoming</strong> view is possible to add tasks directly using Magic Button and move your tasks to other dates by drag and drop.</p>
+
+<p><img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/upcoming-planner-2-4.gif" alt="Today Reschedule" /></p>
+<h2 id="-calendar-events"><i class="far fa-calendar-alt"></i> Calendar events</h2>
+<p>Calendar events is one of the most amazing features Planner has. Unfortunately not everyone could use this feature. Thanks to <a href="https://github.com/tintou">Corentin Noël</a> Planner now supports the latest version of <a href="https://developer.gnome.org/platform-overview/stable/tech-eds.html">EDS</a> and calendar events are displayed correctly.</p>
+
+<h3 id="a-few-more-things">A few more things…</h3>
+
+<ul>
+  <li>The design has been improved and many new animations have been added.</li>
+  <li>Improved the synchronization system with Todoist.</li>
+  <li>Now you can add a project directly in a work area.</li>
+  <li>Customize your window controls to your liking.</li>
+  <li>Visual enhancements for tasks that have already expired.</li>
+</ul>
+
+<p><img src="/images/blogs/2020-06-22-what-s-new-in-v2-4/dashboard.png" alt="Planner 2.4 App" /></p>
+
+<p>Planner 2.4 is available for download now on <a href="https://appcenter.elementary.io/com.github.alainm23.planner/">AppCenter</a> and <a href="https://flathub.org/apps/details/com.github.alainm23.planner">Flathub</a>. We hope you’ll enjoy these improvements.</p>
+
+<p>Special thanks to ‘Eddie Vassallo’ for becoming our new Gold Tier Patrons and supporting the development of Planner.</p>
+
+<p>Special thanks to ‘Robert Zelník’ for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+<p>Planner is being developed with ❤️ and passion for Open Source. However, if you like Planner and want to support its development, consider donating to via:</p>
+<ul>
+  <li><a href="https://www.patreon.com/alainm23">Patreon</a></li>
+  <li><a href="https://www.paypal.me/alainm23">PayPal</a></li>
+</ul>
+:ET
