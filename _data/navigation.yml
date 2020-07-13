@@ -1,5 +1,7 @@
 - name: Blog
   link: /blog/
+- name: Support
+  link: /support/
 #   new_window: false
 #   highlight: false
 # - name: About
