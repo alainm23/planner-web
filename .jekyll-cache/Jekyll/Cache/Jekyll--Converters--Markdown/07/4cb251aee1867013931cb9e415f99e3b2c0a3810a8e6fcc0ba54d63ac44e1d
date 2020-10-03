@@ -1,0 +1,91 @@
+I"-<p>Planner 2.5 is here, with many design improvements, new features, and more.</p>
+
+<h2 id="-quick-add-improvements"><i class="fas fa-plus-circle"></i> Quick Add Improvements</h2>
+<p>Quick Add comes with a new design and new features.</p>
+
+<p><img src="/images/blogs/2020-10-02-what-s-new-in-v2-5/QuickAdd.png" alt="Planner 2.5 Quick Add" /></p>
+
+<ol>
+<li>Filter projects by name.</li>
+<li>Schedule your tasks more quickly by entering <b>today</b>, <b>tomorrow</b> or <b>1d</b> for a day, <b>1w</b> for a week and <b>1m</b> for a month.</li>
+<li>Assign a priority by entering <b>p1</b>, <b>p2</b>, <b>p3</b> or using the button.</li>
+</ol>
+
+<h2 id="-multiple-windows-support"><i class="far fa-window-restore"></i> Multiple Windows Support</h2>
+<p>Open your projects in separate windows and drag your tasks from one side to the other to organize them with ease. Move your projects between your different workspaces. Adapt it to your personal settings.</p>
+
+<p><img src="/images/blogs/2020-10-02-what-s-new-in-v2-5/MultipleWindows.png" alt="Planner 2.5 Multiple Windows" /></p>
+
+<ol>
+<li>Right click on your selected project and select the <b>Open New Window</b> option.</li>
+</ol>
+
+<h2 id="-multiple-selection-support"><i class="fas fa-list"></i> Multiple Selection Support</h2>
+<p>Selecting multiple tasks at the same time is a handy way to quickly reschedule, set priority levels, move, or batch-edit tasks so you can get back to focusing on the more important things.</p>
+
+<p><img src="/images/blogs/2020-10-02-what-s-new-in-v2-5/MultiSelectToolBar.png" alt="Planner 2.5 Multiple Windows" /></p>
+
+<ol>
+<li>Press <span class="keyboardkey">Ctrl</span> and click on tasks to select them. Selected tasks will be highlighted.</li>
+<li>From the menu that appears at the bottom, select the action you want to perform.</li>
+</ol>
+
+<h2 id="-text-formatting"><i class="fas fa-bold"></i> Text Formatting</h2>
+<p>Dé formato a sus tareas o notas con texto en negrita o cursiva.</p>
+
+<ul>
+<li>Use <b>**Mi Text**</b> to use bold text.</li>
+<li>Use <i>*Mi Text*</i> to use italic text..</li>
+</ul>
+
+<h2 id="-sort-your-tasks"><i class="fas fa-sort"></i> Sort Your Tasks</h2>
+<p>If you find that your project has become a little disorganized, it might be time to sort it so you can find tasks more easily.
+You can sort your tasks by name, priority, or scheduled date.</p>
+
+<p><img src="/images/blogs/2020-10-02-what-s-new-in-v2-5/SortTasks.png" alt="Planner 2.5 Sort Tasks" /></p>
+
+<h2 id="-export--import"><i class="fas fa-suitcase-rolling"></i> Export &amp; Import</h2>
+<p>You are moving to a new OS or want to make backup copies thanks to the Import &amp; Export function of Planner this job will be much easier.</p>
+
+<p><img src="/images/blogs/2020-10-02-what-s-new-in-v2-5/ImportExport.png" alt="Planner 2.5 Import Export" /></p>
+
+<ol>
+<li>Export your Planner database in <b>Preferences</b> &gt; <b>General</b> &gt; <b>Export</b>.</li>
+<li>Select your exported file when starting Planner.</li>
+</ol>
+
+<h2 id="-new-keyboard-shortcuts"><i class="fas fa-sort"></i> New Keyboard Shortcuts</h2>
+<p>New keyboard shortcuts are available for Planner 2.5, be more productive by putting them to work.</p>
+
+<ul>
+<li>Use <span class="keyboardkey">d</span>, <span class="keyboardkey">r</span>, <span class="keyboardkey">n</span> to sort your task by, date, priority and name.</li>
+<li>Use <span class="keyboardkey">Ctrl</span> + <span class="keyboardkey">h</span> to hide all tasks details.</li>
+<li>Use <span class="keyboardkey">Ctrl</span> + <span class="keyboardkey">w</span> to open current project new window.</li>
+<li>Use <span class="keyboardkey">h</span> to go to start page.</li>
+</ul>
+
+<h2 id="a-few-more-things">A few more things…</h2>
+<ul>
+  <li>Added support for time when scheduling a task.</li>
+  <li>New design when adding tasks.</li>
+  <li>Now you can convert a local project to Todoist.</li>
+  <li>Tasks are updated when the day changes.</li>
+  <li>It’s now possible to use special characters like &amp; or # in your projects, sections, tasks or notes.</li>
+  <li>It’s now possible to create scheduled tasks faster by entering <b>1d</b>, <b>1w</b>, <b>1m</b> to <b>tomorrow</b>, <b>+7 days</b> and <b>the same day next month</b>.</li>
+  <li>You can see your completed tasks in today’s view.</li>
+  <li>It’s now possible to use Quick Find to search tasks by notes.</li>
+  <li>New Release Dialog.</li>
+  <li>New translations</li>
+  <li>It’s now possible to disable Quick Add.</li>
+  <li>Design improvements and bug fixes.</li>
+  <li>The completed view is sorted by dates.</li>
+</ul>
+
+<p>Planner 2.5 is available for download now on <a href="https://appcenter.elementary.io/com.github.alainm23.planner/">AppCenter</a> and <a href="https://flathub.org/apps/details/com.github.alainm23.planner">Flathub</a>. We hope you’ll enjoy these improvements.</p>
+
+<p>Planner is being developed with ❤️ and passion for Open Source. However, if you like Planner and want to support its development, consider donating to via:</p>
+<ul>
+  <li><a href="https://www.patreon.com/alainm23">Patreon</a></li>
+  <li><a href="https://www.paypal.me/alainm23">PayPal</a></li>
+</ul>
+:ET
