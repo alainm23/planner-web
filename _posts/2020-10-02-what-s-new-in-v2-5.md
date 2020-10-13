@@ -41,7 +41,7 @@ Selecting multiple tasks at the same time is a handy way to quickly reschedule, 
 </ol>
 
 ## <i class="fas fa-bold"></i> Text Formatting
-Dé formato a sus tareas o notas con texto en negrita o cursiva.
+Format your tasks or notes with bold or italic text.
 
 <ul>
 <li>Use <b>**Mi Text**</b> to use bold text.</li>
