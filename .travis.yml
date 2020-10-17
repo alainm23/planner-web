@@ -25,4 +25,4 @@ before_script:
   - JEKYLL_ENV=production bundle exec jekyll build
 
 script:
-  - firebase deploy --token "$FIREBASE_API_TOKEN"
+  - firebase deploy --project="$FIREBASE_PROJECT" --token "$FIREBASE_API_TOKEN"
