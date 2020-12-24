@@ -19,7 +19,7 @@ before_install:
 install:
   - gem install bundle jekyll
   - bundle check || bundle install
-  - npm install -g https://github.com/firebase/firebase-tools.git
+  - npm install -g firebase-tools
 
 before_script:
   - JEKYLL_ENV=production bundle exec jekyll build

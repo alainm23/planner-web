@@ -1,1 +1,1 @@
-[https://planner-todo.web.app/](https://planner-todo.web.app/)
+[https://useplanner.com/](https://useplanner.com/)
