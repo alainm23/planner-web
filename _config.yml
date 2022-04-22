@@ -2,14 +2,14 @@
 # Site
 
 title: Planner
-url: "https://planner-todo.web.app"
+url: "https://useplanner.com/"
 baseurl:
 google_analytics_key: UA-148011698-1
 google_maps_javascript_api_key:
 disqus_shortname: planner-2
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-description: Task manager with Todoist support designed for GNU/Linux 🚀.
+description: Task manager with Todoist & CalDAV support designed for GNU/Linux 🚀.
 image: /images/dashboard.png
 logo: /siteicon.png
 author:
@@ -19,7 +19,7 @@ author:
 social:
   name: Planner
   links:
-    - https://planner-todo.web.app/
+    - https://useplanner.com/
 
 # -----
 # Build
